@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+requests
+plotly
+dash
+schedule
+python-dotenv
